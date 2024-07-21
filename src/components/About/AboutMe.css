@@ -1,0 +1,67 @@
+.body_about{
+    background-color: #0e0e0e;
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.part1_about{
+    font-size: 32px;
+    font-family: preahvihear;
+    color: #bf91f9;
+    margin-top: 100px;
+   
+}
+.part2_about{
+    font-size: 20px;
+    font-family: inter;
+    color: #ffffff;
+    margin-top: 16px;
+}
+
+.part3_about{
+    font-size: 20px;
+    font-family: inter;
+    color: #ffffff;
+    margin-top: 26px;
+}
+.part4_about{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.twitter{
+    height: 24px;
+}
+.twitch{
+    height: 24px;
+}
+.youtube{
+    height: 24px;
+}
+.figma{
+    height: 24px;
+}
+.codepen{
+    height: 24px;
+}
+.facebook{
+    height: 24px;
+}
+.part5_about{
+    margin-top: 48px;
+    margin-bottom: 100px;
+}
+.part5_about a{
+    margin-top: 48px;
+    font-size: 16px;
+    font-family: inter;
+    color: #0b0b0b;
+    background-color: #bf91f9;
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: bold;
+}

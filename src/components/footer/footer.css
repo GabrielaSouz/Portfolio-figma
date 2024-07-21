@@ -1,0 +1,11 @@
+.body_footer{
+    font-family: inter;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin-top: 38px;
+}
+.powere_by{
+    display: flex;
+    justify-content: end;
+}
